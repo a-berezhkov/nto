@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 data/.DS_Store
 .ipynb_checkpoints/NTO-checkpoint.ipynb
 .DS_Store
 data/.DS_Store
 data/.DS_Store
+=======
+.ipynb_checkpoints/NTO-checkpoint.ipynb
+.DS_Store
+>>>>>>> pr/3
